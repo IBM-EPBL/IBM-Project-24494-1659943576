@@ -2,17 +2,17 @@
 # Crude Oil Price Prediction
 ## Category: Artificial Intelligence
 
-**Team Size** : 4
+**Team Size** : 4__
 
-**Team Leader** : RAHUL RM 
-**Team member** : PRINCE PATRICK T
+**Team Leader** : RAHUL RM__ 
+**Team member** : PRINCE PATRICK T__
 **Team member** : RAGUL KANNAN S 
-**Team member** : SANJITH S
-__
-**Industry Mentor(s) Name** : 
-**Faculty Mentor(s) Name** : Baskar N
-__
-**Degree** : Bachelor of Engineering
-**Branch** : Computer Science Engineering
-**College** : SONA COLLEGE OF TECHNOLOGY , SALEM
+**Team member** : SANJITH S__
+
+**Industry Mentor(s) Name** :__ 
+**Faculty Mentor(s) Name** : Baskar N__
+
+**Degree** : Bachelor of Engineering__
+**Branch** : Computer Science Engineering__
+**College** : SONA COLLEGE OF TECHNOLOGY , SALEM__
 
