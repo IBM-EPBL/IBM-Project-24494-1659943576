@@ -11,12 +11,12 @@
 **Team member** : RAGUL KANNAN S
 
 **Team member** : SANJITH S 
-<br>
 
+__
 **Industry Mentor(s) Name** :
 
 **Faculty Mentor(s) Name** : Baskar N
-
+__
 **Degree** : Bachelor of Engineering
 
 **Branch** : Computer Science Engineering
