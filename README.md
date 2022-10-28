@@ -1,16 +1,18 @@
 # IBM-Project-24494-1659943576
-Crude Oil Price Prediction
-Category: Artificial Intelligence
-Team Size : 4
-Team Leader : RAHUL RM 
-Team member : PRINCE PATRICK T
-Team member : RAGUL KANNAN S 
-Team member : SANJITH S
+# Crude Oil Price Prediction
+## Category: Artificial Intelligence
 
-Industry Mentor(s) Name : 
-Faculty Mentor(s) Name : Baskar N
+**Team Size** : 4
 
-Degree : Bachelor of Engineering
-Branch : Computer Science Engineering
-College : SONA COLLEGE OF TECHNOLOGY , SALEM
+**Team Leader** : RAHUL RM 
+**Team member** : PRINCE PATRICK T
+**Team member** : RAGUL KANNAN S 
+**Team member** : SANJITH S
+__
+**Industry Mentor(s) Name** : 
+**Faculty Mentor(s) Name** : Baskar N
+__
+**Degree** : Bachelor of Engineering
+**Branch** : Computer Science Engineering
+**College** : SONA COLLEGE OF TECHNOLOGY , SALEM
 
