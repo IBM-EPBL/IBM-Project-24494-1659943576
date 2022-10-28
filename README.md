@@ -13,7 +13,7 @@
 **Team member** : SANJITH S 
 
 ___
-**Industry Mentor(s) Name** :
+**Industry Mentor(s) Name** : Shanthi
 
 **Faculty Mentor(s) Name** : Baskar N
 ___
