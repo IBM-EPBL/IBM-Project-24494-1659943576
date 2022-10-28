@@ -2,7 +2,7 @@
 # Crude Oil Price Prediction
 ## Category: Artificial Intelligence
 
-**Team Size** : 4__
+**Team Size** : 4
 
 **Team Leader** : RAHUL RM
 
@@ -10,8 +10,8 @@
 
 **Team member** : RAGUL KANNAN S
 
-**Team member** : SANJITH S <br/>
-
+**Team member** : SANJITH S 
+<br>
 
 **Industry Mentor(s) Name** :
 
