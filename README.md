@@ -4,15 +4,22 @@
 
 **Team Size** : 4__
 
-**Team Leader** : RAHUL RM__ 
-**Team member** : PRINCE PATRICK T__
-**Team member** : RAGUL KANNAN S 
-**Team member** : SANJITH S__
+**Team Leader** : RAHUL RM
 
-**Industry Mentor(s) Name** :__ 
-**Faculty Mentor(s) Name** : Baskar N__
+**Team member** : PRINCE PATRICK T
 
-**Degree** : Bachelor of Engineering__
-**Branch** : Computer Science Engineering__
-**College** : SONA COLLEGE OF TECHNOLOGY , SALEM__
+**Team member** : RAGUL KANNAN S
+
+**Team member** : SANJITH S
+
+
+**Industry Mentor(s) Name** :
+
+**Faculty Mentor(s) Name** : Baskar N
+
+**Degree** : Bachelor of Engineering
+
+**Branch** : Computer Science Engineering
+
+**College** : SONA COLLEGE OF TECHNOLOGY , SALEM
 
